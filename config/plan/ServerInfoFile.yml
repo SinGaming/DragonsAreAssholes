@@ -1,0 +1,4 @@
+# Changing the UUID in this file will make Plan regard your server as a completely new server
+# Thread with caution.
+Server:
+    UUID: 64821d17-5e07-4c5b-a680-a1cfb87186cc
