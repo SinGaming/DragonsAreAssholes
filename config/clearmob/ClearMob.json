@@ -9,8 +9,8 @@
   ],
   "Passive Mode": [
     {
-      "Passive Enabled": false,
-      "Interval in Seconds": 60,
+      "Passive Enabled": true,
+      "Interval in Seconds": 300,
       "Message to Players": "[ClearMob] Entities have been cleared",
       "Warning Enabled": true,
       "Warning to Players": "[ClearMob] Clearing Entities in 1 minute"
