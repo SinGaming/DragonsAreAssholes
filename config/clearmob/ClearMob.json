@@ -4,6 +4,24 @@
       "Entity General List": [
         "entity-w-*",
         "item-w-minecraft:golden_shovel"
+	"item-w-iceandfire:firedragon"
+	"item-w-iceandfire:icedragon"
+	"item-w-iceandfire:seaserpent"
+	"item-w-iceandfire:cyclops"
+	"item-w-battletower:golem"
+	"item-w-minecraft:wither"
+	"item-w-minecraft:ender_dragon"
+	"item-w-minecraft:armor_stand"
+	"item-w-minecraft:item_frame"
+	"item-w-minecraft:minecart"
+	"item-w-minecraft:chest_minecart"
+	"item-w-minecraft:hopper_minecart"
+	"item-w-minecraft:tnt_minecart"
+	"item-w-minecraft:painting"
+	"item-w-minecraft:furnace_minecart"
+	"item-w-minecraft:boat"
+	"item-w-minecraft:dragon_egg"
+	"item-w-minecraft:falling_block"
       ]
     }
   ],
@@ -11,9 +29,9 @@
     {
       "Passive Enabled": true,
       "Interval in Seconds": 300,
-      "Message to Players": "[ClearMob] Entities have been cleared",
+      "Message to Players": "[ClearMob] Yer Bullshit [Entities] have been cleared",
       "Warning Enabled": true,
-      "Warning to Players": "[ClearMob] Clearing Entities in 1 minute"
+      "Warning to Players": "[ClearMob] Clearing Yer Bullshit [Entities] in 1 minute"
     }
   ],
   "Mob Compression": [
